@@ -1,0 +1,15 @@
+.login-input
+{
+	float: left;
+	width: 200px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.login-button
+{
+	float: left;
+	display: block;
+	margin-top: 10px;
+	margin-left: 20px;
+}
